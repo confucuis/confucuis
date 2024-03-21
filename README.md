@@ -24,8 +24,11 @@ Here are some ideas to get you started:
 ![](https://camo.githubusercontent.com/8e9e748b005bab34cc62b8a765a8dbcc50033d90aac9852c11659bd393cbe7ba/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d446f636b65722d3035313232413f7374796c653d666c6174266c6f676f3d646f636b6572)
 ![](https://camo.githubusercontent.com/c043ecea4c9fdcebd8482d91f5f7ab0b7a8d5a6d1cc335693c0f69539e3e6364/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4b756265726e657465732d3035313232413f7374796c653d666c6174266c6f676f3d6b756265726e65746573)
 -->
-![linux](https://img.shields.io/badge/Linux-0078D6?logo=linuxs&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-0078D6?logo=linuxs&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-14354C?logo=bash&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white)
 ![Golang](https://img.shields.io/badge/Golang-00ADD8.svg?logo=go&logoColor=white)
 ![VSCode](https://img.shields.io/badge/VSCode-007ACC?logo=visual-studio-code&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-007ACF?logo=Jenkins&logoColor=white?style=plastic)
+![Jenkins](https://img.shields.io/badge/Jenkins-14354C?logo=Jenkins&logoColor=white?style=plastic)
+![k8s](https://img.shields.io/badge/K8s-14354C.svg?logo=k8s&logoColor=white)
+![docker](https://img.shields.io/badge/Docker-14354C.svg?logo=docker&logoColor=white)
