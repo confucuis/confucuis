@@ -14,5 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-https://img.shields.io/badge/{徽标标题}-{徽标内容}-{徽标颜色}.svg
-https://img.shields.io/badge/{python}-{ccc}-{green}.svg
+![](https://camo.githubusercontent.com/e542b737861584012d168b77b896a4013209092d1058fe4ab518c892ac78ee52/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4c696e75782d3035313232413f7374796c653d666c6174266c6f676f3d6c696e7578266c6f676f436f6c6f723d7768697465)
