@@ -30,5 +30,5 @@ Here are some ideas to get you started:
 ![Golang](https://img.shields.io/badge/Golang-14354C.svg?logo=go&logoColor=white)
 ![VSCode](https://img.shields.io/badge/VSCode-14354C?logo=visual-studio-code&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-14354C?logo=Jenkins&logoColor=white?style=plastic)
-![k8s](https://img.shields.io/badge/Kubernetes-14354C.svg?logo=kubernets&logoColor=white)
+![k8s](https://img.shields.io/badge/Kubernetes-14354C.svg?logo=kubernetes&logoColor=white)
 ![docker](https://img.shields.io/badge/Docker-14354C.svg?logo=docker&logoColor=white)
