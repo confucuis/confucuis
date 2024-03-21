@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 ### About me
 - a linux system operation and maintenance engineer.
-<!--
+
 ### Language && Tools
 ![Linux](https://img.shields.io/badge/Linux-14354C?logo=linux&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-14354C?logo=shell&logoColor=white)
@@ -27,4 +27,3 @@ Here are some ideas to get you started:
 ![K8s](https://img.shields.io/badge/Kubernetes-14354C.svg?logo=kubernetes&logoColor=white)
 ![Ansible](https://img.shields.io/badge/Ansible-14354C.svg?logo=ansible&logoColor=white)
 ![VSCode](https://img.shields.io/badge/VSCode-14354C?logo=visual-studio-code&logoColor=white)
--->
