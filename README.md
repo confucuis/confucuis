@@ -28,4 +28,4 @@ Here are some ideas to get you started:
 ![Python](https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white)
 ![Golang](https://img.shields.io/badge/Golang-00ADD8.svg?logo=go&logoColor=white)
 ![VSCode](https://img.shields.io/badge/VSCode-007ACC?logo=visual-studio-code&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-%23fffff%3F%26logo%3DJenkins%26logoColor%3Dwhite?style=plastic)
+![Jenkins](https://img.shields.io/badge/Jenkins-007ACF?logo=Jenkins&logoColor=white?style=plastic)
