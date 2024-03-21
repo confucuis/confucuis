@@ -18,13 +18,13 @@ Here are some ideas to get you started:
 ### Language && Tools
 ![Linux](https://img.shields.io/badge/Linux-8A2BE2?logo=linux&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-14354C?logo=shell&logoColor=white)
-![Ansible](https://img.shields.io/badge/Ansible-14354C.svg?logo=ansible&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-8A2BE2.svg?logo=ansible&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-14354C?logo=Jenkins&logoColor=white)
-![docker](https://img.shields.io/badge/Docker-14354C.svg?logo=docker&logoColor=white)
+![docker](https://img.shields.io/badge/Docker-8A2BE2.svg?logo=docker&logoColor=white)
 ![K8s](https://img.shields.io/badge/Kubernetes-14354C.svg?logo=kubernetes&logoColor=white)
-![Helm](https://img.shields.io/badge/Helm-14354C.svg?logo=helm&logoColor=white)
+![Helm](https://img.shields.io/badge/Helm-8A2BE2.svg?logo=helm&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-14354C.svg?logo=rust&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-8A2BE2.svg?logo=rust&logoColor=white)
 <!--
 ### Language && Tools
 ![Linux](https://img.shields.io/badge/Linux-14354C?logo=linux&logoColor=white)
