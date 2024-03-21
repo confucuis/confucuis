@@ -16,6 +16,13 @@ Here are some ideas to get you started:
 -->
 ### About me
 - a linux system operation and maintenance engineer.
+### Language && Tools
+![Linux](https://img.shields.io/badge/Linux-14354C?logo=linux&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-14354C?logo=shell&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-14354C.svg?logo=ansible&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-14354C?logo=Jenkins&logoColor=white)
+![Cicd](https://img.shields.io/badge/Cicd-14354C.svg?logo=cicd&logoColor=white)
+![Python](https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white)
 <!--
 ### Language && Tools
 ![Linux](https://img.shields.io/badge/Linux-14354C?logo=linux&logoColor=white)
