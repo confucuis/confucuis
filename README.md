@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 ![](https://camo.githubusercontent.com/8e9e748b005bab34cc62b8a765a8dbcc50033d90aac9852c11659bd393cbe7ba/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d446f636b65722d3035313232413f7374796c653d666c6174266c6f676f3d646f636b6572)
 ![](https://camo.githubusercontent.com/c043ecea4c9fdcebd8482d91f5f7ab0b7a8d5a6d1cc335693c0f69539e3e6364/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4b756265726e657465732d3035313232413f7374796c653d666c6174266c6f676f3d6b756265726e65746573)
 -->
-![Linux](https://img.shields.io/badge/Linux-14354C?logo=linuxs&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-14354C?logo=linux&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-14354C?logo=shell&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white)
 ![Golang](https://img.shields.io/badge/Golang-14354C.svg?logo=go&logoColor=white)
