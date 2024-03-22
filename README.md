@@ -24,6 +24,7 @@ Here are some ideas to get you started:
 ![K8s](https://img.shields.io/badge/Kubernetes-14354C.svg?logo=kubernetes&logoColor=white)
 ![Helm](https://img.shields.io/badge/Helm-8A2BE2.svg?logo=helm&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white)
+![C/C++](https://img.shields.io/badge/C/C++-8A2BE2.svg?logo=c/c++&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-8A2BE2.svg?logo=rust&logoColor=white)
 <!--
 ### Language && Tools
