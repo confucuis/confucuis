@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ### About me
-- a linux system operation and maintenance engineer.
+- 孔夫子.
 ### Language && Tools
 ![Linux](https://img.shields.io/badge/Linux-8A2BE2?logo=linux&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-14354C?logo=shell&logoColor=white)
