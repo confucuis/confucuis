@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 ![Helm](https://img.shields.io/badge/Helm-8A2BE2.svg?logo=helm&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-8A2BE2.svg?logo=python&logoColor=white)
 ![C/C++](https://img.shields.io/badge/C/C++-8A2BE2.svg?logo=c&logoColor=white)
-![C/C++](https://img.shields.io/badge/Golang-8A2BE2.svg?logo=golang&logoColor=white)
+![C/C++](https://img.shields.io/badge/Golang-8A2BE2.svg?logo=go&logoColor=white)
 ![C/C++](https://img.shields.io/badge/Rust-8A2BE2.svg?logo=rust&logoColor=white)
 
 <!--
