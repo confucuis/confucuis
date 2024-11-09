@@ -43,3 +43,4 @@ Here are some ideas to get you started:
 ![Ansible](https://img.shields.io/badge/Ansible-14354C.svg?logo=ansible&logoColor=white)
 ![VSCode](https://img.shields.io/badge/VSCode-14354C?logo=visual-studio-code&logoColor=white)
 -->
+![visits](https://komarev.com/ghpvc/?username=confucuis&color=blue)
