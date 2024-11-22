@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 -->
 ### About me
 - confucuis.
-- i want to become a "Stack Overflow" engineer.
+- I want to be a Stack Overflow engineer.
 ### Language && Tools
 ![Linux](https://img.shields.io/badge/Linux-8A2BE2?logo=linux&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-8A2BE2?logo=shell&logoColor=white)
