@@ -25,12 +25,13 @@ Here are some ideas to get you started:
 ![K8s](https://img.shields.io/badge/Kubernetes-8A2BE2.svg?logo=kubernetes&logoColor=white)
 ![Helm](https://img.shields.io/badge/Helm-8A2BE2.svg?logo=helm&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-8A2BE2.svg?logo=python&logoColor=white)
-![C/C++](https://img.shields.io/badge/C/C++-8A2BE2.svg?logo=c&logoColor=white)
 ![Golang](https://img.shields.io/badge/Golang-8A2BE2.svg?logo=go&logoColor=white)
-![rust](https://img.shields.io/badge/Rust-8A2BE2.svg?logo=rust&logoColor=white)
+
 
 <!--
+![rust](https://img.shields.io/badge/Rust-8A2BE2.svg?logo=rust&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-14354C.svg?logo=rust&logoColor=white)
+![C/C++](https://img.shields.io/badge/C/C++-8A2BE2.svg?logo=c&logoColor=white)
 
 ### Language && Tools
 ![Linux](https://img.shields.io/badge/Linux-14354C?logo=linux&logoColor=white)
